@@ -91,6 +91,9 @@ header{
                 width: 100%;
                 a{
                 width: 100%;
+                flex-direction: column;
+                text-align: center;
+                
                 }
                 &.active{
                     display: flex;
